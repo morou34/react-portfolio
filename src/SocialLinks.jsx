@@ -1,8 +1,6 @@
 import React from 'react'
 import {FaFacebook, FaGithub, FaLinkedin} from 'react-icons/fa'
-import {HiOutLineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
-import { MdInfoOutline } from 'react-icons/md'
 
 const SocialLinks = () => {
     const socialmedia = [
