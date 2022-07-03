@@ -1,6 +1,10 @@
 import React from 'react'
 import {FaFacebook, FaGithub, FaLinkedin} from 'react-icons/fa'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
+<<<<<<< HEAD
+=======
+
+>>>>>>> c25ac14006c37836ad0ea1e207d7bad5017a18fc
 
 const SocialLinks = () => {
     const socialmedia = [
