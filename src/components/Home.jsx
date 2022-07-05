@@ -15,7 +15,7 @@ const Home = () => {
                 <h2 className='text-4xl sm:text-7xl font-bold text-white'>
                         I'm a Full Stack Developer.</h2>
                 <p className='text-gray-500 max-w-md py-6'>
-                    I have litteraly no experience in web developement, and I have never worked before in this industry. However I'm willing to put the time and the effort to learn if you hire me.
+                    I have a decent experience in web developement, and I have worked before as a freelancer on a few projects. I really admire making web applications, and i love learning new technologies.
 
                 </p>
                 <div>
